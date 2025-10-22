@@ -74,9 +74,9 @@ Both methods provide high-resolution, low-overhead monitoring with minimal inter
 - Text Generation
 
 ## Authors 
-- Ahmed Abd Elaziz Elsayed : https://scholar.google.ca/citations?user=PNaoAwsAAAAJ&hl=ar
-- Abdullah Azhar Al-Obaidi
-- Hany E.Z. Farag (Supervisor)
+- Ahmed Abd Elaziz Elsayed: https://scholar.google.ca/citations?user=PNaoAwsAAAAJ&hl=ar
+- Abdullah Azhar Al-Obaidi: 
+- Hany E.Z. Farag (Supervisor): https://scholar.google.com/citations?hl=en&user=ciQS5YgAAAAJ&view_op=list_works&sortby=pubdate
 
 ## Citation
 Paper Coming Soon!
