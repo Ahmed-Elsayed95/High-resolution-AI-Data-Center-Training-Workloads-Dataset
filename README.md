@@ -81,7 +81,7 @@ Both methods provide high-resolution, low-overhead monitoring with minimal inter
 ## Authors 
 - Ahmed Abd Elaziz Elsayed: https://scholar.google.ca/citations?user=PNaoAwsAAAAJ&hl=ar
 - Abdullah Azhar Al-Obaidi: https://scholar.google.com/citations?hl=en&user=nMa8rEAAAAAJ&view_op=list_works&sortby=pubdate
-- Hany E.Z. Farag (Supervisor): https://scholar.google.com/citations?hl=en&user=ciQS5YgAAAAJ&view_op=list_works&sortby=pubdate
+- Hany E.Z. Farag (Supervisor): https://smartgrid.eecs.yorku.ca/
 
 ## Citation
 Paper Coming Soon!
