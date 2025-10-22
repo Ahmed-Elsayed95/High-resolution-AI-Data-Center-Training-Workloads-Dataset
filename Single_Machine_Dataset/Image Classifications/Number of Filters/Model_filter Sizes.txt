@@ -1,0 +1,7 @@
+1- Base number of filter 8,16,32 -> Number of learnables: 256.8K
+
+2- Base Number of filter 16,32,64 -> Number of learnables:525K 
+
+3- Base Number of filter 32,64,128 -> Number of learnables: 1M  
+
+Conv2D are the filter layers at each stage.  
