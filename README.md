@@ -79,9 +79,9 @@ Both methods provide high-resolution, low-overhead monitoring with minimal inter
 - Text Generation
 
 ## Authors 
-- Ahmed Abd Elaziz Elsayed: https://scholar.google.ca/citations?user=PNaoAwsAAAAJ&hl=ar
+- Ahmed Abd Elaziz Elsayed, EECS Department, York University, Toronto, Canada: https://scholar.google.ca/citations?user=PNaoAwsAAAAJ&hl=ar
 - Abdullah Azhar Al-Obaidi: https://scholar.google.com/citations?hl=en&user=nMa8rEAAAAAJ&view_op=list_works&sortby=pubdate
-- Hany E.Z. Farag (Supervisor): https://smartgrid.eecs.yorku.ca/
+- Hany E.Z. Farag (PI), EECS Department, York University, Toronto, Canada: https://smartgrid.eecs.yorku.ca/
 
 ## Citation
 Paper Coming Soon!
