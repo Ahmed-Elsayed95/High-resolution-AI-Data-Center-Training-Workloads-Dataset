@@ -1,0 +1,7 @@
+
+1- Embedding Dim 256-> Learnable Parameters: 21.8M
+
+
+2- Embedding Dim 512-> Learnable Parameters: 1.3M
+
+2- Embedding Dim 1000-> Learnable Parameters: 3.6M
