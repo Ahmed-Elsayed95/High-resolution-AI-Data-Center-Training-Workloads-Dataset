@@ -1,2 +1,3 @@
 # High-resolution-AI-Data-Center-Training-Workloads-Dataset
 This dataset provides high-resolution, sub-second measurements of various AI training workloads executed on both single and multi-GPU nodes. It includes 32 training sessions performed on high-performance NVIDIA H100 and B200 8-GPU systems, as well as 40 sessions conducted on consumer-grade NVIDIA GeForce RTX 3060 GPUs. In total, the dataset comprises over 1.8 million samples, capturing detailed system-level metrics across diverse AI applications.
+<img width="1306" height="612" alt="Study_scope" src="https://github.com/user-attachments/assets/9d36238a-b8a4-41de-bbc6-5432ea06a4c0" />
