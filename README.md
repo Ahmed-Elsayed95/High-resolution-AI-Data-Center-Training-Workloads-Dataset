@@ -65,7 +65,7 @@ Both methods provide high-resolution, low-overhead monitoring with minimal inter
 
 ## Applications Covered
 
-- Image Generation (Stable Diffusion, GANs)
+- Image Generation (Diffusion Models)
 - Large Language Model (LLM) Training
 - Time Series Forecasting
 - Image Captioning
@@ -73,6 +73,10 @@ Both methods provide high-resolution, low-overhead monitoring with minimal inter
 - Image Classification
 - Text Generation
 
-## Citation
+## Authors 
+- Ahmed Abd Elaziz Elsayed : https://scholar.google.ca/citations?user=PNaoAwsAAAAJ&hl=ar
+- Abdullah Azhar Al-Obaidi
+- Hany E.Z. Farag (Supervisor)
 
-Paper Comming Soon!
+## Citation
+Paper Coming Soon!
