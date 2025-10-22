@@ -1,0 +1,28 @@
+# Train Diffusion Steps. 
+# create/add the following code to your machine before you start 
+# 'train.py', 'environment.yml', and 'custom_loging.py'
+
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+bash Miniconda3-latest-Linux-x86_64.sh
+
+source ~/miniconda3/etc/profile.d/conda.sh
+conda --version 
+conda env create -f environment.yml
+
+conda activate cloudspace
+pip install pynvml
+
+# Class the training Code: 
+
+python train.py 
+
+# Wait until the training starts and run the custom logging code 
+python custom_loging.py 
+
+# Download the logging file after the record duration
+
+
+# In case of B200 Node, you may need the following commands: 
+pip3 install --pre torch torchvision torchaudio --index-url https://download.pytorch.org/whl/nightly/cu128
+
+
