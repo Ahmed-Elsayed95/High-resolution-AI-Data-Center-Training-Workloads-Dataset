@@ -2,7 +2,7 @@
 
 This dataset provides high-resolution, sub-second measurements of various AI training workloads executed on both single and multi-GPU nodes. It includes 32 training sessions performed on high-performance NVIDIA H100 and B200 8-GPU systems, as well as 40 sessions conducted on consumer-grade NVIDIA GeForce RTX 3060 GPUs. In total, the dataset comprises over 1.8 million samples, capturing detailed system-level metrics across diverse AI applications.
 
-The figure below illustrates the overall scope of the AI training workload dataset, which is structured around three principal aspects: (1) platform and deployment scale, (2) applications and training objectives, and (3) AI architectures and hyperparameters. The experiments were designed based on these aspects to provide an accurate representation of AI training workloads across diverse computational environments.
+The figure below illustrates the overall scope of the AI training workload dataset, which is structured around three principal aspects: (1) platform and deployment scale, (2) applications and training objectives, and (3) AI architectures and hyperparameters. The experiments were designed based on these aspects to provide an accurate representation of AI training workloads across diverse computational environments. Each session provides a 15-minute time-series recording, sampled at 100 ms in the single-machine setup and 20 ms in the multi-GPU node environment. 
 
 <img width="1306" height="612" alt="Study Scope" src="https://github.com/user-attachments/assets/9d36238a-b8a4-41de-bbc6-5432ea06a4c0" />
 
@@ -11,6 +11,7 @@ The figure below illustrates the overall scope of the AI training workload datas
 The platform and deployment scale aspect covers environments ranging from single-CPU and single-GPU systems to multi-GPU and multi–virtual CPU (vCPU) nodes. The applications and training objectives aspect includes a range of AI workloads such as image generation, text generation with LLMs, and feature forecasting. The workloads are assigned to appropriate environments according to their computational requirements, where tasks that demand substantial computing resources, such as image generation and LLM training, are executed in node-scale environments, while tasks requiring less computation, such as forecasting and image captioning, are conducted in single-machine environments.
 
 ## Machine Specifications
+The following table presents the hardware specifications of the single-GPU workstation and the multi-GPU compute node.
 
 | Type | Local Single Machine Environment | Datacenter Node Environment - H100 | Datacenter Node Environment - B200 |
 |------|-----------------------------------|------------------------------------|------------------------------------|
@@ -22,6 +23,7 @@ The platform and deployment scale aspect covers environments ranging from single
 *Table: Specifications of tested machines used in the experimental configurations*
 
 ## AI Architecture and Hyperparameters
+The following table summarizes the AI model architectures and corresponding hyperparameters employed in each application.
 
 | Task | AI Architecture and Hyperparameters Value |
 |------|-------------------------------------------|
@@ -37,12 +39,29 @@ The platform and deployment scale aspect covers environments ranging from single
 
 *Table: AI architecture and hyperparameters used across different training tasks and computational scales*
 
+## Metrics Captured
+
+The dataset includes comprehensive system-level measurements collected through two distinct monitoring approaches:
+
+### HWiNFO-based Monitoring (Single Machine)
+- **CPU Metrics**: Core/package temperatures, frequencies, C-states, P-states, package power, memory controller load
+- **GPU Metrics**: Utilization (compute and memory), core temperature, fan speeds, board power draw and limits, GPU/memory/SM clocks, voltages, ECC errors, active process information
+- **System Metrics**: Motherboard voltages, fan speeds
+- **Reporting Interval**: 100 ms minimum
+
+### Python Package-based Monitoring (Node Scale)
+- **CPU Metrics**: Utilization, frequency, energy and power statistics (via psutil and os packages)
+- **GPU Metrics**: Utilization, memory usage, power demand (percentage and absolute values), temperature (via pynvml)
+- **Reporting Interval**: 20 ms minimum (constrained by NVIDIA driver update frequency)
+
+Both methods provide high-resolution, low-overhead monitoring with minimal interference to AI training workloads, capturing sub-second measurements across all hardware components.
+
 ## Dataset Structure
 
 - **Total Training Sessions**: 72 sessions (32 high-performance + 40 consumer-grade)
 - **Total Samples**: >1.8 million high-resolution measurements
-- **Metrics Captured**: GPU utilization, memory usage, power consumption, temperature, throughput, and other system-level metrics
 - **Temporal Resolution**: Sub-second measurements
+- **Data Format**: CSV with timestamped metrics
 
 ## Applications Covered
 
@@ -50,4 +69,10 @@ The platform and deployment scale aspect covers environments ranging from single
 - Large Language Model (LLM) Training
 - Time Series Forecasting
 - Image Captioning
-- And various other AI training workloads
+- Reinforcement Learning
+- Image Classification
+- Text Generation
+
+## Citation
+
+Paper Comming Soon!
