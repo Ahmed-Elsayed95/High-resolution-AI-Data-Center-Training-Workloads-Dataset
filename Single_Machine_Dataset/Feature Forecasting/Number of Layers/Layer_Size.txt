@@ -1,0 +1,5 @@
+1- Number of Layer: 6 -> number of learnable paramaters=474K
+
+2- Number of Layer: 8 -> number of learnable paramaters=724.5K
+
+3- Base Layer: 10 -> number of learnable paramaters=975K
