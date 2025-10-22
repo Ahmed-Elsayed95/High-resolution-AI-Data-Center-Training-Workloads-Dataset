@@ -1,0 +1,4 @@
+Base channel 128-> 107M Learnable Parameters
+Base channel 256-> 430M Learnable Parameters
+Base Channel 512-> 1.7B Learnable Parameters
+Base Channel 128-> 1.7B Learnable Parameters
