@@ -1,4 +1,5 @@
-<img width="450" height="351" alt="image" src="https://github.com/user-attachments/assets/32ab1f23-090c-4e3c-a240-2fe17c5f1e16" /> <img width="450" height="351" alt="image" src="https://github.com/user-attachments/assets/43590ecd-914d-4507-afbb-4589985fb100" />
+<img width="450" height="351" alt="image" src="https://github.com/user-attachments/assets/32ab1f23-090c-4e3c-a240-2fe17c5f1e16" /> <img width="538" height="269" alt="image" src="https://github.com/user-attachments/assets/7fe0f9b2-15e6-4a8b-9866-908f1749b325" />
+
 
 
 # High-resolution-AI-Data-Center-Training-Workloads-Dataset
