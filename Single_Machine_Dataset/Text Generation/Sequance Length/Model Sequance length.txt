@@ -1,0 +1,6 @@
+
+1- Sequance 100 -> Learnable Parameters: 667K
+
+2- Sequance 250-> Learnable Parameters: 1.3M
+
+2- Embedding Dim 500-> Learnable Parameters: 2.9M
