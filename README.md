@@ -21,6 +21,22 @@ The platform and deployment scale aspect covers environments ranging from single
 
 *Table: Specifications of tested machines used in the experimental configurations*
 
+## AI Architecture and Hyperparameters
+
+| Task | AI Architecture and Hyperparameters Value |
+|------|-------------------------------------------|
+| **Single Machine Scale** | |
+| Feature Forecasting | Batch size: (50,100,150), Model Size: (474K,1.6M,3.6M)<br>Input Sequence Length: (96,192,672), # Layers: (6,8,10) |
+| Reinforcement Learning | Batch size: (150,250,350), Layer Size: (256,512,1024)<br>Input Sequence Length: (150,250,350), Input Type: (Feature, Sequence) |
+| Image Classification | Batch size: (750,1500,2250), Image Size: (112,224,280)<br># Filters: (8,16,32), Optimizer Type: (Adam, SGD, RMS) |
+| Text-Generation | Batch size: (32,128,512), Input Sequence Length: (100,250,500)<br>Embedding Dimension: (100,300,1000) |
+| Image Captioning | Batch size: (128,256,1024), Layer Size: (512,1024,2048)<br>Embedding Dimension: (256,512,1024) |
+| **H100/B200 Node Scale** | |
+| Image Generation (Diffusion Models) | Batch size: (128,256,512), Image Size: (32,64,128)<br>Model Size: (107M,430M,1.7B) |
+| Text-Generation (LLMs) | Batch size: (2,16,32), Parallelization Settings: ds(Z1,Z2,Z3)<br>Cutoff length: (1024,2048,4096), Model Size: (1B,3B,8B) |
+
+*Table: AI architecture and hyperparameters used across different training tasks and computational scales*
+
 ## Dataset Structure
 
 - **Total Training Sessions**: 72 sessions (32 high-performance + 40 consumer-grade)
