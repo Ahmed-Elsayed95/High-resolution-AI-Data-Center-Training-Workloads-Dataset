@@ -85,4 +85,5 @@ Both methods provide high-resolution, low-overhead monitoring with minimal inter
 - Hany E.Z. Farag (PI), EECS Department, York University, Toronto, Canada: https://smartgrid.eecs.yorku.ca/
 
 ## Citation
+Please cite the following paper if you have used this dataset in your research/study ( if you can't access the paper, please reach out to the following email: elsayed7@yorku.ca)
 Paper Coming Soon!
