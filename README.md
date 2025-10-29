@@ -94,11 +94,10 @@ This Dataset is under the LICENSE: CC BY-NC-ND 4.0.
 Please check the LICENSE file for more details.
 
 
-## 📊 Repository Metrics
+## 📊 Live Traffic Metrics (Last 14 Days)
 
-| Metric | Badge |
+| Metric | Count |
 |--------|-------|
-| **Total Downloads** | ![GitHub all releases](https://img.shields.io/github/downloads/Ahmed-Elsayed95/High-resolution-AI-Data-Center-Training-Workloads-Dataset/total) |
-| **Latest Release Downloads** | ![GitHub release (latest by SemVer)](https://img.shields.io/github/downloads/Ahmed-Elsayed95/High-resolution-AI-Data-Center-Training-Workloads-Dataset/latest/total) |
-| **Repo Size** | ![GitHub repo size](https://img.shields.io/github/repo-size/Ahmed-Elsayed95/High-resolution-AI-Data-Center-Training-Workloads-Dataset) |
-| **Code Size** | ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Ahmed-Elsayed95/High-resolution-AI-Data-Center-Training-Workloads-Dataset) |
+| **Repository Views** | ![GitHub views](https://komarev.com/ghpvc/?username=Ahmed-Elsayed95&repo=High-resolution-AI-Data-Center-Training-Workloads-Dataset&color=blue) |
+| **Unique Visitors** | ![Unique Visitors](https://visitor-badge.laobi.icu/badge?page_id=Ahmed-Elsayed95.High-resolution-AI-Data-Center-Training-Workloads-Dataset) |
+| **Clones** | 15 |
