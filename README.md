@@ -95,9 +95,7 @@ Please check the LICENSE file for more details.
 
 
 ## 📊 Live Traffic Metrics (Last 14 Days)
+<img width="1200" height="512" alt="Total views in last 14 days" src="https://github.com/user-attachments/assets/a968cc0c-6cbe-48ed-a366-5bfc563e9c49" />
+<img width="1200" height="512" alt="Clones in last 14 days" src="https://github.com/user-attachments/assets/87dd1573-a0c5-45d5-b5bc-f6e8f14c4ae7" />
 
-| Metric | Count |
-|--------|-------|
-| **Repository Views** | ![GitHub views](https://komarev.com/ghpvc/?username=Ahmed-Elsayed95&repo=High-resolution-AI-Data-Center-Training-Workloads-Dataset&color=blue) |
-| **Unique Visitors** | ![Unique Visitors](https://visitor-badge.laobi.icu/badge?page_id=Ahmed-Elsayed95.High-resolution-AI-Data-Center-Training-Workloads-Dataset) |
-| **Clones** | 15 |
+
