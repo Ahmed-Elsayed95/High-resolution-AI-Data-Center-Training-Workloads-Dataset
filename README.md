@@ -92,3 +92,9 @@ Paper: Ahmed Abd Elaziz Elsayed, Abdullah Azhar Al-Obaidi, Hany E.Z. Farag. Char
 ## LICENSE 
 This Dataset is under the LICENSE: CC BY-NC-ND 4.0. 
 Please check the LICENSE file for more details.
+
+
+## State
+![GitHub Repo views](https://visitor-badge.glitch.me/badge?page_id=Ahmed-Elsayed95/High-resolution-AI-Data-Center-Training-Workloads-Dataset)
+![GitHub stars](https://img.shields.io/github/stars/Ahmed-Elsayed95/High-resolution-AI-Data-Center-Training-Workloads-Dataset)
+![GitHub forks](https://img.shields.io/github/forks/Ahmed-Elsayed95/High-resolution-AI-Data-Center-Training-Workloads-Dataset)
