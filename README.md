@@ -94,7 +94,11 @@ This Dataset is under the LICENSE: CC BY-NC-ND 4.0.
 Please check the LICENSE file for more details.
 
 
-## State
-![GitHub Repo views](https://visitor-badge.glitch.me/badge?page_id=Ahmed-Elsayed95/High-resolution-AI-Data-Center-Training-Workloads-Dataset)
-![GitHub stars](https://img.shields.io/github/stars/Ahmed-Elsayed95/High-resolution-AI-Data-Center-Training-Workloads-Dataset)
-![GitHub forks](https://img.shields.io/github/forks/Ahmed-Elsayed95/High-resolution-AI-Data-Center-Training-Workloads-Dataset)
+## 📊 Repository Metrics
+
+| Metric | Badge |
+|--------|-------|
+| **Total Downloads** | ![GitHub all releases](https://img.shields.io/github/downloads/Ahmed-Elsayed95/High-resolution-AI-Data-Center-Training-Workloads-Dataset/total) |
+| **Latest Release Downloads** | ![GitHub release (latest by SemVer)](https://img.shields.io/github/downloads/Ahmed-Elsayed95/High-resolution-AI-Data-Center-Training-Workloads-Dataset/latest/total) |
+| **Repo Size** | ![GitHub repo size](https://img.shields.io/github/repo-size/Ahmed-Elsayed95/High-resolution-AI-Data-Center-Training-Workloads-Dataset) |
+| **Code Size** | ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Ahmed-Elsayed95/High-resolution-AI-Data-Center-Training-Workloads-Dataset) |
