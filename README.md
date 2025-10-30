@@ -95,7 +95,5 @@ Please check the LICENSE file for more details.
 
 
 ## 📊 Live Traffic Metrics (Last 14 Days)
-<img width="1200" height="512" alt="Total views in last 14 days" src="https://github.com/user-attachments/assets/a968cc0c-6cbe-48ed-a366-5bfc563e9c49" />
-<img width="1200" height="512" alt="Clones in last 14 days" src="https://github.com/user-attachments/assets/87dd1573-a0c5-45d5-b5bc-f6e8f14c4ae7" />
-
-
+<img width="1200" height="512" alt="Total views in last 14 days" src="https://github.com/user-attachments/assets/b38af11b-460b-4d89-947f-8d9bcee59a9b" />
+<img width="1200" height="512" alt="Clones in last 14 days" src="https://github.com/user-attachments/assets/c68c32c4-ccd8-4fce-be3b-0c216d3567e0" />
