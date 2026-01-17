@@ -90,6 +90,7 @@ Please cite the following paper if you have used this dataset in your research/s
 Preprint Paper: Ahmed Abd Elaziz Elsayed, Abdullah Azhar Al-Obaidi, Hany E.Z. Farag. Characterization of high-resolution AI data center training workloads on single and multiple GPU nodes, 29 October 2025, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-7943457/v1]
 
 ## LICENSE 
+Copyright (c) (2025) Ahmed Abdelaziz, Abdullah Azhar Al-Obaidi, Hany E.Z. Farag
 This Dataset is under the LICENSE: CC BY-NC-ND 4.0. 
 Please check the LICENSE file for more details.
 
