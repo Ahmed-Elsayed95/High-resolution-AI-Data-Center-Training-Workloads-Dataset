@@ -87,7 +87,9 @@ Both methods provide high-resolution, low-overhead monitoring with minimal inter
 ## Citation
 Please cite the following paper if you have used this dataset in your research/study ( if you can't access the paper, please reach out to the following email: elsayed7@yorku.ca)
 
-Preprint Paper: Ahmed Abd Elaziz Elsayed, Abdullah Azhar Al-Obaidi, Hany E.Z. Farag. Characterization of high-resolution AI data center training workloads on single and multiple GPU nodes, 29 October 2025, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-7943457/v1]
+Paper: Elsayed, A.A.E., Al-Obaidi, A.A. & Farag, H.E.Z. Characterization of high-resolution AI data center training workloads on single and multiple GPU nodes. Sci Data (2026). [https://doi.org/10.1038/s41597-026-07496-6]
+
+Data: Elsayed, Ahmed Abdelaziz; Al-Obaidi, Abdullah Azhar; Farag, Hany E. Z. (2026). High-resolution-AI-Data-Center-Training-Workloads-Dataset. figshare. Dataset. https://doi.org/10.6084/m9.figshare.31654879.v1
 
 ## LICENSE 
 Copyright (c) (2025) Ahmed Abdelaziz, Abdullah Azhar Al-Obaidi, Hany E.Z. Farag
